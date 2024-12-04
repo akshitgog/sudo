@@ -1,0 +1,6 @@
+# MySQL database connection properties
+db.url=jdbc:mysql://localhost:3306/sudoku
+db.username=root
+db.password=Jain@7042123137
+
+
